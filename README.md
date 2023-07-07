@@ -24,7 +24,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## About The Repository
+## About The System
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -57,6 +57,15 @@ A Production version will be launched soon
 - `php artisan migrate --seed`
 - `php artisan serve`
 
+
+## Images For you
+
+View All Users:
+[System image](/public/gitAssets/1.png)
+Add Users:
+[System image](/public/gitAssets/2.png)
+Upload Excel File:
+[System image](/public/gitAssets/3.png)
 
 
 
